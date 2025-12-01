@@ -216,3 +216,34 @@ body {
     color: white;
     font-size: 1.1em;
 }
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <link href="LeStyle.css" rel="stylesheet">
+</head>
+<body>
+    <main>
+        <p> Contactez-nous pour toutes vos demandes</p>
+        <ul>
+            <p>Numéro mobile</p>
+            <li>Numéro : +229 01 44 16 31 32</li>
+            <br>
+            <p>Ecrivez-nous sur Whatsapp</p>
+            <li>Numéro : +229 01 44 16 31 32</li>
+            <br>
+            <p>Envoyez-nous un mail</p>
+            <li>davasevos@gmail.com</li>
+            <br>
+            <p>Pour vos transactions Mobile Money</p>
+            <li>Numéro : +229 01 67 07 31 32</li>
+            <br>
+    </main>
+            <p>Nos Horaires</p>
+            <li>Du Lundi au Samedi</li>
+            <li>De 08h à 21h</li>
+            <br>
+</body>
+</html>
