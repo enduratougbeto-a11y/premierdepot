@@ -66,3 +66,52 @@ code source pour sites web.
     </footer>
 </body>
 </html>
+
+h1 {
+    color: darkblue;
+}
+
+.ma_classe {
+    color: white;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+p {
+    font-family: DM serif Text;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 1.1em;
+}
+
+a {
+    color: red;
+    font-size: 1em;
+}
+
+header {
+    color: blue;
+    font-size: 2.5em;
+    background-color: white;
+    text-align: center;
+    font-family: Bodoni Moda;
+}
+
+.bas-de-page {
+    color: greenyellow;
+    font-size: 1.2em;
+}
+
+.text {
+    color: greenyellow;
+    font-size: 1.5em;
+}
+
+footer {
+    background-color: black;
+}
