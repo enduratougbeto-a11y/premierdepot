@@ -115,3 +115,17 @@ header {
 footer {
     background-color: black;
 }
+
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h2>Qui sommes nous ?</h2>
+    <p>Depuis bientôt plus de 3ans l'entreprise Online Services s'évertue de jours en jours pour que vous ayez une satisfaction complète dans vos projets nos différents services sont généralement en lien avec l'informatique mais nous proposons d'autres services tels que la commercialisation des fournitures scolaires et bureautiques à des prix rentables, nos employés combleront vos attentes dans la bonne humeur, le respect mutuel et la gentillesse nous ferons tout ce qui est à notre disposition pour combler vos attentes et ce dans de courts délai. Notre devise "Rapidité et Efficacité"</p>
+    <br>
+</body>
+</html>p
