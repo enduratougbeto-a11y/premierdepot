@@ -192,3 +192,27 @@ footer {
     </ul>
 </body>
 </html>
+
+h1 {
+    color: blue;
+}
+
+strong {
+    font-size : 1.6em;
+    text-decoration: underline;
+}
+
+ul {
+    font-family: DM serif Text;
+}
+
+p {
+    color: greenyellow; 
+    font-size: 1.4em;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 1.1em;
+}
