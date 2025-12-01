@@ -247,3 +247,20 @@ body {
             <br>
 </body>
 </html>
+
+p {
+    color: greenyellow;
+    font-size: 1.1em
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 1.1em;
+}
+
+main {
+    text-align: center;
+    font-size: 1.1em;
+}
+
